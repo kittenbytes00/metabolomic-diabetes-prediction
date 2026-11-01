@@ -1,7 +1,7 @@
 # Metabolomic Prediction of Type 2 Diabetes Following Gestational Diabetes
 
 **Course:** DS8002: Machine Learning (Toronto Metropolitan University)  
-**Project Type:** Option 2: Replication + Extension  
+**Project Type:** Replication + Extension  
 
 ---
 
